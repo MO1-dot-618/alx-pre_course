@@ -1,3 +1,4 @@
 
 #!/bin/bash
-echo "ALX school is cool in master"
+echo "ALX school is cool in maste"
+echo "change in branch"
